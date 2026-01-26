@@ -159,7 +159,7 @@ class _HomePageState extends State<HomePage> with TickerProviderStateMixin {
                 ),
                 const SizedBox(width: 16),
                 const Text(
-                  'King Rittik',
+                  'King Rittik NEW UPDATE!',
                   style: TextStyle(
                     fontSize: 28,
                     fontWeight: FontWeight.bold,
